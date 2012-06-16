@@ -1,5 +1,5 @@
 #!/bin/bash -ex
 
-sass --watch client/todos.sass:client/todos:css
+sass --watch client/todos.sass:client/todos.css
 
 # for more infos: sass --help
